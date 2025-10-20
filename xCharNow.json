@@ -1,0 +1,11 @@
+{
+  "name": "xCharNow Price Feed",
+  "addresses": {
+    "polygon": [
+      {
+        "address": "0x7366Ec97FD4Ea883889B3A752d91c393d923eb09",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

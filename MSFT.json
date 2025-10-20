@@ -1,0 +1,35 @@
+{
+  "name": "MSFT Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0x1985be727ecba7654d20d451ba84c08320b05e6e",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x1c70A93D17253d4b14eA6845F5D446804f5009f2",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xffc12f451674028430b303026f3e9342fa8597ff",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x5D209cE1fBABeAA8E6f9De4514A74FFB4b34560F",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0xa8BAe02A2cf1D8284bE1584B2085F38B22B835Cd",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

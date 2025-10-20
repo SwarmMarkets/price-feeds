@@ -1,0 +1,11 @@
+{
+  "name": "CLSK Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0xF30Be0FE75d27058C5267Be3D6Ea7bCE3CA46c0c",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

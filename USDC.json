@@ -1,0 +1,11 @@
+{
+  "name": "USDC/USD Price Feed",
+  "addresses": {
+    "bsc": [
+      {
+        "address": "0x51597f405303C4377E36123cBc172b13269EA163",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

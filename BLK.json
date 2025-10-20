@@ -1,0 +1,35 @@
+{
+  "name": "BLK Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0xc8a8c7d282bdf70642502f17998512cb2cbee736",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x1Bfc5714bb9F4bd6071fF1A0DbC0497b860fFB23",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xe7a82b8a2813e872d36aec2b2c227af6d016c4fa",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x5117D46dDFb5ECB60345b25FB3376495e1f32f73",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0xC31521FC2D5E42eA08fD64e3B8606f274121D094",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

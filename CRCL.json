@@ -1,0 +1,11 @@
+{
+  "name": "CRCL Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0xDBCE4557F9F038D0E0de899eD7a7107f9477A949",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

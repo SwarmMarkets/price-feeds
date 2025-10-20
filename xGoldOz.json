@@ -1,0 +1,23 @@
+{
+  "name": "xGold Ounce Price Feed",
+  "addresses": {
+    "base": [
+      {
+        "address": "0x5213eBB69743b85644dbB6E25cdF994aFBb8cF31",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x86896fEB19D8A607c3b11f2aF50A0f239Bd71CD0",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0x921371Fa4d4A30cD350D29762ccB8A5861724E29",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

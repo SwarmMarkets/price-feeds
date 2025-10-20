@@ -1,6 +1,6 @@
-# Swarm Price Feeds
+# Price Feeds
 
-This repository contains all official Swarm price feeds. Users can also create their own custom price feeds and submit a Pull Request (PR) to add them to this repository. Once added, these price feeds can be used on the Swarm platform.
+This repository contains all official Price Feeds. Users can also create their own custom price feeds and submit a Pull Request (PR) to add them to this repository. Once added, these price feeds can be used on the Swarm platform.
 
 ## How to Use
 

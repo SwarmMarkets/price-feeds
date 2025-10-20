@@ -1,0 +1,11 @@
+{
+  "name": "BTDR Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0xd7997D76B2BBDB1bc091FEB89000F503b2Bad637",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

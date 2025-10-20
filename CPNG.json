@@ -1,0 +1,35 @@
+{
+  "name": "CPNG Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0x131aea2aeb5822cfc38caf6bbe9fbbe33fbd79d6",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x5D576EEE7Ad37982bA44673ed2af92ACBaEa9Fe1",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x514a1e8775c7ebde5673d00c3a3355ff4cb9bf77",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x73E71933282E66f1A783A08d5A505c201b72779D",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0x7baA83DDE46A4BB78005d1B9DEDE942CbFa3aeD8",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

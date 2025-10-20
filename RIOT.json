@@ -1,0 +1,11 @@
+{
+  "name": "RIOT Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0x38c5f1Cbf836b1CB67F402F9564FCbd33bcaEC39",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

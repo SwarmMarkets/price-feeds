@@ -1,0 +1,11 @@
+{
+  "name": "DEFT Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0x0aE2ab28bcf7670244639B72074dF2836d17dB07",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

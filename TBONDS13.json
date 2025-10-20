@@ -1,0 +1,35 @@
+{
+  "name": "TBONDS13 Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0xd27e6D02b72eB6FCe04Ad5690C419196B4EF2885",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x7CaEc52a59349E789f2E25Eb4412001Cf001d874",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x8234dea102b11cb2abd82a557f795b2bfab11e42",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x2aFeDE5a790c1fC2e1B7D836E1902Ca164b7e4dD",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0xe60c6F3406dF34B21c7Ecd7fdf31778F3Be9cF32",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

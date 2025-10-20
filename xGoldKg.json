@@ -1,0 +1,41 @@
+{
+  "name": "xGold Kilo Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0xbe79f828e0cd909dc54ad576e8778fedeaecbde8",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xb832a0C4416AdE1b9fA05aBBCB5E11E8E9E7F951",
+        "provider": "Swarm"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xdbE01287763d37fC2d660f13cda9B25b6c73739f",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xbea2e0154FB3EA85A34f0863839DA6b5143f3B4a",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xe9e59bB874741E50C8322c3BaBB02BE0066455f5",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0x77813Ab97348c881793C4381Ba8eedC16fDa4721",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

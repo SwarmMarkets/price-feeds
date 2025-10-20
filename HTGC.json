@@ -1,0 +1,11 @@
+{
+  "name": "HTGC Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0x7A17637E4EF4DE1e7f76f9cb79D96a9f9380adB5",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

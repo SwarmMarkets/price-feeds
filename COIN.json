@@ -1,0 +1,35 @@
+{
+  "name": "COIN Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0x8a04501caf8bc0092846acb7af7376a697da80ea",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xa545653F48aD29Aa6EDc2c976229Ef875a32c3d2",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x21b6c44b03c0b36ac4463555b924a52d593195f0",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x2d1AB79D059e21aE519d88F978cAF39d74E31AEB",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0xc8E6a48102FD61aB25FB3DecF6D065cD5F4822E4",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

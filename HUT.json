@@ -1,0 +1,11 @@
+{
+  "name": "HUT Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0x44D0df8730C24B8F2704B511b92B18efa441341B",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "GOOGL Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0x864476495b6073aba76DF2FCf12eBC315fE861b8",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HOLO Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0xc2BBeDE24366Bacf032686639ee759d566B19Cd6",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

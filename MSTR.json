@@ -1,0 +1,35 @@
+{
+  "name": "MSTR Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0x8829a95ab7b9d29a6739ee104893f37ed822cea1",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xb270c107C5C97412943790E20923ffA4ad1C53B6",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x0b68cbee700a04aaf169c514d6b49cc3bbf71c0c",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xda7b6d452C1E38a6d5347ADfe9198cA13FA90B5C",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0x6d80682D1A7301EaA29a847d0182D0550CA06051",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

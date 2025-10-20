@@ -1,0 +1,11 @@
+{
+  "name": "HRZN Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0xDAd1ac3BF29D69eA84e19C2E5B711C5504F19D2b",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

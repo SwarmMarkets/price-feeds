@@ -1,0 +1,11 @@
+{
+  "name": "DELL Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0xE91a725D01f281F117854826fFa9A8cC6DA5B410",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

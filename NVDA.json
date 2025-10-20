@@ -1,0 +1,35 @@
+{
+  "name": "NVDA Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0xa4B815Fe3c8f4421Ae89f232025DBA14a5890da5",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x676a7e31A4dcedcfB8c9fbaB07595ea8A7d9Cb81",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x022e88591324b09eb298fae8070bb836869206b8",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xea5c2Cbb5cD57daC24E26180b19a929F3E9699B8",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0x0FecA55b5332E5C455e6064BDfea2B20ca2f4152",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

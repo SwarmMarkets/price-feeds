@@ -1,0 +1,11 @@
+{
+  "name": "CANG Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0x15871508Eea61d966Ab8E54eEb01aC6153d0e59C",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

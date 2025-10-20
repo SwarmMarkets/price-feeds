@@ -1,0 +1,11 @@
+{
+  "name": "DJT Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0x2C8d342BFdF48DF8717dC5C3c96dF96F7f7D8BDB",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

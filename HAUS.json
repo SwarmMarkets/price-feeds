@@ -1,0 +1,23 @@
+{
+  "name": "HAUS Price Feed",
+  "addresses": {
+    "polygon": [
+      {
+        "address": "0x956a2c6365A9eAFAC21c6ff1f69C9a0E2b9b1E96",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x7690C41655956242b572da87aCBeCb63b8f58370",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0x3E85462104A73aaf73DdE2c7b20AE0dBcc9507Dc",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

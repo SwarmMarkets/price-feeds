@@ -1,0 +1,11 @@
+{
+  "name": "ARW Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0xa404846F06794AC2b6C1DD9B4f1F82E4e62cE927",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MARA Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0xEa5ea0F68d4d723e755387dc41806f9Ed497CFF8",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

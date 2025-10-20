@@ -1,0 +1,17 @@
+{
+  "name": "REAI Price Feed",
+  "addresses": {
+    "polygon": [
+      {
+        "address": "0x0ccD2924051A7fC4b156180525A19F231EFEf407",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0xcd56ace19A0c1e6dC9C51eF200c1f682a794593b",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

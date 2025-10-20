@@ -1,0 +1,11 @@
+{
+  "name": "UEN Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0x659b3d093072a67FcCc0Cd2d832EBd8dA416a855",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

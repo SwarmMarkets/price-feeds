@@ -1,0 +1,35 @@
+{
+  "name": "AAPL Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0x83Ba61F9f84dd3219C4599AA1996E2cF8857D228",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x7E7B45b08F68EC69A99AAb12e42FcCB078e10094",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xca81546cb2450d4eb14ac6c6c390c7f0a1c78912",
+        "provider": "Swarm"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xb7Ed5bE7977d61E83534230f3256C021e0fae0B6",
+        "provider": "Swarm"
+      }
+    ],
+    "plasma": [
+      {
+        "address": "0xD2366856d630545F5C6eEB2444491CaE1e799899",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

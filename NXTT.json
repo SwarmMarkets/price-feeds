@@ -1,0 +1,11 @@
+{
+  "name": "NXTT Price Feed",
+  "addresses": {
+    "plasma": [
+      {
+        "address": "0xE9c19Da5770924fe6a28749E6fD287DFE5B5336E",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}
