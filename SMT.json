@@ -1,0 +1,23 @@
+{
+  "name": "SMT Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0x31C1e5AcBCb206e962939280613Cd812243bE8f5",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x0c2ed226c5AC01C01ebc8F6D74Dcd665fC6d6C71",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xd1943f7f20ef9923BBB341eCCc702B31de869f33",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}
