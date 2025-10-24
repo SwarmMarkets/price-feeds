@@ -1,6 +1,24 @@
 {
   "name": "USDC/USD Price Feed",
   "addresses": {
+    "ethereum": [
+      {
+        "address": "0x8fffffd4afb6115b954bd326cbe7b4ba576818f6",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xfe4a8cc5b5b2366c1b58bea3858e81843581b2f7",
+        "provider": "Swarm"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x7e860098f58bbfc8648a4311b374b1d669a2bc6b",
+        "provider": "Swarm"
+      }
+    ],
     "bsc": [
       {
         "address": "0x51597f405303C4377E36123cBc172b13269EA163",
