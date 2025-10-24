@@ -1,0 +1,17 @@
+{
+  "name": "ETH Price Feed",
+  "addresses": {
+    "ethereum": [
+      {
+        "address": "0xf70cEE7C7E638f9364C4076a01226337eC51fCa5",
+        "provider": "Swarm"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xd3fcc16335C580251831Cf011BE1F1cBc442A3a3",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}

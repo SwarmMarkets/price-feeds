@@ -1,0 +1,11 @@
+{
+  "name": "USDC.e Price Feed",
+  "addresses": {
+    "polygon": [
+      {
+        "address": "0xfe4a8cc5b5b2366c1b58bea3858e81843581b2f7",
+        "provider": "Swarm"
+      }
+    ]
+  }
+}
