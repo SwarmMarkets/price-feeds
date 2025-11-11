@@ -4,7 +4,8 @@
     "ethereum": [
       {
         "address": "0x7df785142bd6116e4743229077a334c5f9130247",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0x7934afacb40b60d83d8ad8266ed5746253f2f458"
       }
     ],
     "polygon": [
