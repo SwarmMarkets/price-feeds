@@ -37,9 +37,9 @@ for (const file of files) {
 
     for (const e of entries) {
       if (!e || !e.address || !e.tokenAddress) continue;
-      const key = e.tokenAddress;
+      const key = String(e.tokenAddress).toLowerCase();
       if (!aggregated[network][key]) aggregated[network][key] = [];
-      aggregated[network][key].push({ address: e.address, provider: e.provider });
+      aggregated[network][key].push({ address: String(e.address).toLowerCase(), provider: e.provider });
     }
   }
 }
