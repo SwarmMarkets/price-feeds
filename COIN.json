@@ -17,7 +17,8 @@
     "base": [
       {
         "address": "0x21b6c44b03c0b36ac4463555b924a52d593195f0",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0x3e64ca6e2b65bb619fae1881da90883e50844d00"
       }
     ],
     "bsc": [
