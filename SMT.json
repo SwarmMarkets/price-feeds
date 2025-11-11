@@ -4,19 +4,22 @@
     "ethereum": [
       {
         "address": "0x31C1e5AcBCb206e962939280613Cd812243bE8f5",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0xb17548c7b510427baac4e267bea62e800b247173"
       }
     ],
     "polygon": [
       {
         "address": "0x0c2ed226c5AC01C01ebc8F6D74Dcd665fC6d6C71",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0xe631dabef60c37a37d70d3b4f812871df663226f"
       }
     ],
     "base": [
       {
         "address": "0xd1943f7f20ef9923BBB341eCCc702B31de869f33",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0x2974dc646e375e83bd1c0342625b49f288987fa4"
       }
     ]
   }

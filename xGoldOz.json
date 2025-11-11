@@ -1,10 +1,25 @@
 {
   "name": "xGold Ounce Price Feed",
   "addresses": {
+    "ethereum": [
+      {
+        "address": "0x214ed9da11d2fbe465a6fc601a91e62ebec1a0d6",
+        "provider": "Swarm",
+        "tokenAddress": "0x6ce43f19a23ba474449d6231446d752ab3db3f6d"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xb832a0c4416ade1b9fa05abbcb5e11e8e9e7f951",
+        "provider": "Swarm",
+        "tokenAddress": "0xfb75d446e30842c8b7100014db7c5fd2cbfbc072"
+      }
+    ],
     "base": [
       {
         "address": "0x5213eBB69743b85644dbB6E25cdF994aFBb8cF31",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0x084837a03c1c4b16d554ea0dac2bba254b97c292"
       }
     ],
     "bsc": [
