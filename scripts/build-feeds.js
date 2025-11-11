@@ -28,20 +28,19 @@ for (const file of files) {
     continue;
   }
 
-  const symbol = path.basename(file, '.json');
   const { addresses } = content;
 
   for (const [network, entries] of Object.entries(addresses)) {
     if (!Array.isArray(entries)) continue;
 
     if (!aggregated[network]) aggregated[network] = {};
-    if (!aggregated[network][symbol]) aggregated[network][symbol] = [];
 
-    aggregated[network][symbol].push(
-      ...entries
-        .filter((e) => e && e.address)
-        .map((e) => ({ address: e.address, provider: e.provider }))
-    );
+    for (const e of entries) {
+      if (!e || !e.address || !e.tokenAddress) continue;
+      const key = e.tokenAddress;
+      if (!aggregated[network][key]) aggregated[network][key] = [];
+      aggregated[network][key].push({ address: e.address, provider: e.provider });
+    }
   }
 }
 
