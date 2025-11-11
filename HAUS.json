@@ -4,7 +4,8 @@
     "polygon": [
       {
         "address": "0x956a2c6365A9eAFAC21c6ff1f69C9a0E2b9b1E96",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0x259ffa158b7f6cfb85c17d87bdbf1ade4e2c8232"
       }
     ],
     "base": [
