@@ -1,40 +1,278 @@
 {
-  "name": "xGold Kilo Price Feed",
-  "addresses": {
-    "ethereum": [
+  "data": {
+    "securities": [
       {
-        "address": "0xbe79f828e0cd909dc54ad576e8778fedeaecbde8",
-        "provider": "Swarm"
-      }
-    ],
-    "polygon": [
+        "id": "0x0b08000fef0f3e939add040ed03d59469bb2b36f",
+        "asset": {
+          "name": "Microstrategy Inc - Class A",
+          "symbol": "MSTR"
+        }
+      },
       {
-        "address": "0xb832a0C4416AdE1b9fA05aBBCB5E11E8E9E7F951",
-        "provider": "Swarm"
-      }
-    ],
-    "arbitrum": [
+        "id": "0x0bb696e91ca42370398174063fe75a480366e16a",
+        "asset": {
+          "name": "Bitdeer Technologies Holding Company",
+          "symbol": "BTDR"
+        }
+      },
       {
-        "address": "0xdbE01287763d37fC2d660f13cda9B25b6c73739f",
-        "provider": "Swarm"
-      }
-    ],
-    "base": [
+        "id": "0x0ff578bce83e195c2f6e341e9abf33f3462dd67b",
+        "asset": {
+          "name": "TESLA INC. DL - 001",
+          "symbol": "TSLA"
+        }
+      },
       {
-        "address": "0xbea2e0154FB3EA85A34f0863839DA6b5143f3B4a",
-        "provider": "Swarm"
-      }
-    ],
-    "bsc": [
+        "id": "0x12f4273212f7a4ce113c8a576bab1361b561e0da",
+        "asset": {
+          "name": "Horizon Technology Finance Corp",
+          "symbol": "HRZN"
+        }
+      },
       {
-        "address": "0xe9e59bB874741E50C8322c3BaBB02BE0066455f5",
-        "provider": "Swarm"
-      }
-    ],
-    "plasma": [
+        "id": "0x15a541ae96821dfcf512093f9eadf7dffa3392c8",
+        "asset": {
+          "name": "Cleanspark Inc",
+          "symbol": "CLSK"
+        }
+      },
       {
-        "address": "0x77813Ab97348c881793C4381Ba8eedC16fDa4721",
-        "provider": "Swarm"
+        "id": "0x1e5d9c22ec5406f8588f3b807e933c73dd212264",
+        "asset": {
+          "name": "Cango Inc",
+          "symbol": "CANG"
+        }
+      },
+      {
+        "id": "0x231f6061fb8bd1b5f1988493289e70f69423f3ad",
+        "asset": {
+          "name": "Fold Holdings Inc - Class A",
+          "symbol": "FLD"
+        }
+      },
+      {
+        "id": "0x35729ca70e9f837ce90625a1cc43e8993e2a7155",
+        "asset": {
+          "name": "NVIDIA Corp",
+          "symbol": "NVDA"
+        }
+      },
+      {
+        "id": "0x369828de5422380ec8a8bd09f4c8314bb305b9f6",
+        "asset": {
+          "name": "Semler Scientific Inc",
+          "symbol": "SMLR"
+        }
+      },
+      {
+        "id": "0x391c868a2074c959f026820b580f0b8d21618b5e",
+        "asset": {
+          "name": "APPLE INC.",
+          "symbol": "AAPL"
+        }
+      },
+      {
+        "id": "0x3e85401ad43bd82b056b7406ff2782e6be3984e2",
+        "asset": {
+          "name": "International Business Machines Corp",
+          "symbol": "IBM"
+        }
+      },
+      {
+        "id": "0x48a2f4e72b2440d810b95e5758eead98bebfd840",
+        "asset": {
+          "name": "Dell Technologies Inc",
+          "symbol": "DELL"
+        }
+      },
+      {
+        "id": "0x4f1cb1387ce8361e0a0e5b5387a3e13b6268bc92",
+        "asset": {
+          "name": "Metaplanet Inc",
+          "symbol": "MTPLF"
+        }
+      },
+      {
+        "id": "0x5208286cb5643cdf992fe7189307ff19db36506b",
+        "asset": {
+          "name": "Alphabet Inc - Class A",
+          "symbol": "GOOGL"
+        }
+      },
+      {
+        "id": "0x600c7c9dab9d5da950eba89b1c3f9fd99ce24f1d",
+        "asset": {
+          "name": "iShares $ Treasury Bond 0-1yr UCITS ETF",
+          "symbol": "TBONDS01"
+        }
+      },
+      {
+        "id": "0x608d067698c3445b902ba6ec1e557399123c3335",
+        "asset": {
+          "name": "HAUS: RESIDENTIAL REIT ETF",
+          "symbol": "HAUS"
+        }
+      },
+      {
+        "id": "0x61c7b60c063744264fac195d1ff99e24ab60bfa0",
+        "asset": {
+          "name": "HIVE Digital Technologies Ltd",
+          "symbol": "HIVE"
+        }
+      },
+      {
+        "id": "0x66789af676457841085013ab18a8ed395aa22ed4",
+        "asset": {
+          "name": "Defi Technologies Inc",
+          "symbol": "DEFT"
+        }
+      },
+      {
+        "id": "0x6723396953a101a4daf048886852785ba265427c",
+        "asset": {
+          "name": "Next Technology Holding Inc",
+          "symbol": "NXTT"
+        }
+      },
+      {
+        "id": "0x6d2546a38882f9d50629c96bf91c1cc5fe9cc0a4",
+        "asset": {
+          "name": "Block Inc",
+          "symbol": "XYZ"
+        }
+      },
+      {
+        "id": "0x72582bfbb458a30e0cb41c4cc21b448ab6c98344",
+        "asset": {
+          "name": "Gamestop Corporation - Class A",
+          "symbol": "GME"
+        }
+      },
+      {
+        "id": "0x748fe8c11195c5392dcb0a9b5e375bf893b7410f",
+        "asset": {
+          "name": "Arrow Electronics Inc",
+          "symbol": "ARW"
+        }
+      },
+      {
+        "id": "0x74a298a5a0976e98494bf12ec0e04c3023310cd2",
+        "asset": {
+          "name": "Trump Media & Technology Group Corp",
+          "symbol": "DJT"
+        }
+      },
+      {
+        "id": "0x78327bdde364eb2757141dd7932925c928649801",
+        "asset": {
+          "name": "Circle Internet Group Inc",
+          "symbol": "CRCL"
+        }
+      },
+      {
+        "id": "0x7e9bf525856ef2e119909aae47e1f7f340745278",
+        "asset": {
+          "name": "INTELLIGENT REAL ESTATE ETF",
+          "symbol": "REAI"
+        }
+      },
+      {
+        "id": "0x80201f498402bde82e63935587bffadfd8d04cd2",
+        "asset": {
+          "name": "Exodus Movement Inc - Class A",
+          "symbol": "EXOD"
+        }
+      },
+      {
+        "id": "0x878162a18122f4be121eb4eb388d12ca4a69eadc",
+        "asset": {
+          "name": "iShares $ Treasury Bond 1-3yr UCITS ETF",
+          "symbol": "TBONDS13"
+        }
+      },
+      {
+        "id": "0x8a99b7785d4b574a53b9d9e494418af3e6fa82a0",
+        "asset": {
+          "name": "Hut 8 Corp",
+          "symbol": "HUT"
+        }
+      },
+      {
+        "id": "0x9c0cb1a6892698cc321b94ed524a64b495b75b44",
+        "asset": {
+          "name": "Marathon Digital Holdings Inc",
+          "symbol": "MARA"
+        }
+      },
+      {
+        "id": "0xb037fa3a5128bc4b4d27fe7ff55f2f9cadc57231",
+        "asset": {
+          "name": "Hercules Capital Inc",
+          "symbol": "HTGC"
+        }
+      },
+      {
+        "id": "0xc3a4f4306097a52cba208076c42d373590d8adb9",
+        "asset": {
+          "name": "Coinbase Global Inc - Class A",
+          "symbol": "COIN"
+        }
+      },
+      {
+        "id": "0xcc98e10280f961699d63d944e34f2e0cae521f86",
+        "asset": {
+          "name": "Blackrock Inc",
+          "symbol": "BLK"
+        }
+      },
+      {
+        "id": "0xd168bf56ae301ec5503a180ab12494143790a143",
+        "asset": {
+          "name": "Galaxy Digital",
+          "symbol": "GLXY"
+        }
+      },
+      {
+        "id": "0xd53d1f3f2795eff77211161fb64636636bb288fe",
+        "asset": {
+          "name": "Intel Corp",
+          "symbol": "INTC"
+        }
+      },
+      {
+        "id": "0xdb46e3233a67b329e9a488fc18da46da032754db",
+        "asset": {
+          "name": "HOLOPAK TECHNOLOGIES INC",
+          "symbol": "HOLO"
+        }
+      },
+      {
+        "id": "0xe272f85e56a776f19b17ea4b6b60dc3c7ebd7991",
+        "asset": {
+          "name": "Microsoft Corporation",
+          "symbol": "MSFT"
+        }
+      },
+      {
+        "id": "0xf9061c990023a88077d1a6d8138540351a8780e1",
+        "asset": {
+          "name": "Coupang Inc - Class A",
+          "symbol": "CPNG"
+        }
+      },
+      {
+        "id": "0xf9aaf8f0f44c090223052cfa6a72071aa1152a60",
+        "asset": {
+          "name": "Mondelez International Inc",
+          "symbol": "MDLZ"
+        }
+      },
+      {
+        "id": "0xfb4c947ffdb4ae1884af7d4379dd3ffce87ffba6",
+        "asset": {
+          "name": "Riot Platforms Inc",
+          "symbol": "RIOT"
+        }
       }
     ]
   }

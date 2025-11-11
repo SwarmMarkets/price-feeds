@@ -25,13 +25,15 @@
     "bsc": [
       {
         "address": "0xda7b6d452C1E38a6d5347ADfe9198cA13FA90B5C",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0x8bbd9b4fda067e49ee65ed8b647b655853309870"
       }
     ],
     "plasma": [
       {
         "address": "0x6d80682D1A7301EaA29a847d0182D0550CA06051",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0x8bbd9b4fda067e49ee65ed8b647b655853309870"
       }
     ]
   }

@@ -4,7 +4,8 @@
     "plasma": [
       {
         "address": "0x864476495b6073aba76DF2FCf12eBC315fE861b8",
-        "provider": "Swarm"
+        "provider": "Swarm",
+        "tokenAddress": "0xff29ca01a60734371e7dae5221e26dbbc9d7b2f1"
       }
     ]
   }
