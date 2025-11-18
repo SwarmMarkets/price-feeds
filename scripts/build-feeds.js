@@ -10,6 +10,7 @@ const files = fs
 
 const aggregated = {};
 for (const file of files) {
+  const symbol = path.basename(file, '.json');
   const fullPath = path.join(feedsDir, file);
   let content;
   try {
@@ -39,7 +40,12 @@ for (const file of files) {
       if (!e || !e.address || !e.tokenAddress) continue;
       const key = String(e.tokenAddress).toLowerCase();
       if (!aggregated[network][key]) aggregated[network][key] = [];
-      aggregated[network][key].push({ address: String(e.address).toLowerCase(), provider: e.provider });
+      aggregated[network][key].push({
+        address: String(e.address).toLowerCase(),
+        provider: e.provider,
+        tokenAddress: key,
+        symbol,
+      });
     }
   }
 }
