@@ -1,0 +1,122 @@
+{
+  "0xddc522bd48aac28d47f92567064769125ea541b2": [
+    {
+      "address": "0xca81546cb2450d4eb14ac6c6c390c7f0a1c78912",
+      "provider": "Swarm",
+      "tokenAddress": "0xddc522bd48aac28d47f92567064769125ea541b2",
+      "symbol": "AAPL"
+    }
+  ],
+  "0x3253c1d54c8581be2765d6d30c7ed3964090651f": [
+    {
+      "address": "0xe7a82b8a2813e872d36aec2b2c227af6d016c4fa",
+      "provider": "Swarm",
+      "tokenAddress": "0x3253c1d54c8581be2765d6d30c7ed3964090651f",
+      "symbol": "BLK"
+    }
+  ],
+  "0x3e64ca6e2b65bb619fae1881da90883e50844d00": [
+    {
+      "address": "0x21b6c44b03c0b36ac4463555b924a52d593195f0",
+      "provider": "Swarm",
+      "tokenAddress": "0x3e64ca6e2b65bb619fae1881da90883e50844d00",
+      "symbol": "COIN"
+    }
+  ],
+  "0xf7a930dbce0f8086b62f895f2aab4bce9d769223": [
+    {
+      "address": "0x514a1e8775c7ebde5673d00c3a3355ff4cb9bf77",
+      "provider": "Swarm",
+      "tokenAddress": "0xf7a930dbce0f8086b62f895f2aab4bce9d769223",
+      "symbol": "CPNG"
+    }
+  ],
+  "0x80121727d05e4393681b1460b7e9c0d403e7859c": [
+    {
+      "address": "0x7690c41655956242b572da87acbecb63b8f58370",
+      "provider": "Swarm",
+      "tokenAddress": "0x80121727d05e4393681b1460b7e9c0d403e7859c",
+      "symbol": "HAUS"
+    }
+  ],
+  "0xbd1180ed09c46df35534fba9cc7e4ee870dcc755": [
+    {
+      "address": "0xe6f4bc173ea5d206495581b930dddd47dd4da211",
+      "provider": "Swarm",
+      "tokenAddress": "0xbd1180ed09c46df35534fba9cc7e4ee870dcc755",
+      "symbol": "INTC"
+    }
+  ],
+  "0x983e41547964e3f643b764f63266fb0a21b5f0ee": [
+    {
+      "address": "0xffc12f451674028430b303026f3e9342fa8597ff",
+      "provider": "Swarm",
+      "tokenAddress": "0x983e41547964e3f643b764f63266fb0a21b5f0ee",
+      "symbol": "MSFT"
+    }
+  ],
+  "0x0b1606a11f1cbad9a929bc32038a0d2fe75789ce": [
+    {
+      "address": "0x0b68cbee700a04aaf169c514d6b49cc3bbf71c0c",
+      "provider": "Swarm",
+      "tokenAddress": "0x0b1606a11f1cbad9a929bc32038a0d2fe75789ce",
+      "symbol": "MSTR"
+    }
+  ],
+  "0x3993ab33e5ae1c081df87913ab5c845ee2813b72": [
+    {
+      "address": "0x022e88591324b09eb298fae8070bb836869206b8",
+      "provider": "Swarm",
+      "tokenAddress": "0x3993ab33e5ae1c081df87913ab5c845ee2813b72",
+      "symbol": "NVDA"
+    }
+  ],
+  "0x2974dc646e375e83bd1c0342625b49f288987fa4": [
+    {
+      "address": "0xd1943f7f20ef9923bbb341eccc702b31de869f33",
+      "provider": "Swarm",
+      "tokenAddress": "0x2974dc646e375e83bd1c0342625b49f288987fa4",
+      "symbol": "SMT"
+    }
+  ],
+  "0xe1c4bc8aa4046bb35896f6bbb7a464c4996c9208": [
+    {
+      "address": "0x5bdd2573ff802f2958d16e2ab2a332844674f0e8",
+      "provider": "Swarm",
+      "tokenAddress": "0xe1c4bc8aa4046bb35896f6bbb7a464c4996c9208",
+      "symbol": "TBONDS01"
+    }
+  ],
+  "0x13e43724ef085365682964788b230c5a357f0006": [
+    {
+      "address": "0x8234dea102b11cb2abd82a557f795b2bfab11e42",
+      "provider": "Swarm",
+      "tokenAddress": "0x13e43724ef085365682964788b230c5a357f0006",
+      "symbol": "TBONDS13"
+    }
+  ],
+  "0x842f275eb7fb49678c0fe46e92477f28ffa1e12a": [
+    {
+      "address": "0x4df7ff6aa22b262437dc7fd0eda20a97311718e1",
+      "provider": "Swarm",
+      "tokenAddress": "0x842f275eb7fb49678c0fe46e92477f28ffa1e12a",
+      "symbol": "TSLA"
+    }
+  ],
+  "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913": [
+    {
+      "address": "0x7e860098f58bbfc8648a4311b374b1d669a2bc6b",
+      "provider": "Swarm",
+      "tokenAddress": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+      "symbol": "USDC"
+    }
+  ],
+  "0x084837a03c1c4b16d554ea0dac2bba254b97c292": [
+    {
+      "address": "0x5213ebb69743b85644dbb6e25cdf994afbb8cf31",
+      "provider": "Swarm",
+      "tokenAddress": "0x084837a03c1c4b16d554ea0dac2bba254b97c292",
+      "symbol": "xGoldOz"
+    }
+  ]
+}
