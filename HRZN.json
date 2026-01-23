@@ -1,6 +1,13 @@
 {
   "name": "HRZN Price Feed",
   "addresses": {
+    "base": [
+      {
+        "address": "0xDD2a76027Ea4f0646270525b875C5D8f8eBcf977",
+        "provider": "Swarm",
+        "tokenAddress": "0x8545f2f46e8c7c52526c27d52a7fac4f6c40c0c9"
+      }
+    ],
     "plasma": [
       {
         "address": "0xDAd1ac3BF29D69eA84e19C2E5B711C5504F19D2b",

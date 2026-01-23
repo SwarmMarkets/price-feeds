@@ -1,6 +1,13 @@
 {
   "name": "RIOT Price Feed",
   "addresses": {
+    "base": [
+      {
+        "address": "0x01D408C5e6564ac1237CE620c670f77E0e41d61B",
+        "provider": "Swarm",
+        "tokenAddress": "0x0224e9c64731adb31af19186651beb68796fd67d"
+      }
+    ],
     "plasma": [
       {
         "address": "0x38c5f1Cbf836b1CB67F402F9564FCbd33bcaEC39",
