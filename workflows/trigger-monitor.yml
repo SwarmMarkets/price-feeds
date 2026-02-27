@@ -1,0 +1,21 @@
+name: Trigger Price Feed Monitor
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.json'           # only fires when a JSON file changes
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch monitor workflow
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.MONITOR_DISPATCH_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'SwarmMarkets',
+              repo:  'price-feed-monitor',
+              workflow_id: 'monitor.yml',
+              ref: 'main'
+            })
