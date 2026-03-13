@@ -22,7 +22,7 @@ jobs:
 
       - name: Build unified feeds
         working-directory: ./scripts
-        run: node build-all-networks-feeds.cjs
+        run: node build-all-networks-feeds.js
 
       - name: Deploy to aggregated-all-price-feeds branch
         run: |
