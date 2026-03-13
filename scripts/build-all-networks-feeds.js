@@ -1,5 +1,6 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 const CHAIN_IDS = {
   arbitrum: 42161,
@@ -14,6 +15,8 @@ function createFeedId(address, chainId) {
   return `${String(address).toLowerCase()}-${chainId}`;
 }
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 const feedsDir = path.resolve(__dirname, '..');
 const outputPath = path.resolve(__dirname, '..', 'all-networks.json');
 
@@ -57,13 +60,14 @@ for (const file of files) {
       if (!entry || !entry.address || !entry.tokenAddress) continue;
 
       const address = String(entry.address).toLowerCase();
+      const feedId = createFeedId(address, chainId);
       const tokenAddress = String(entry.tokenAddress).toLowerCase();
-      if (!aggregated[tokenAddress]) aggregated[tokenAddress] = [];
+      if (!aggregated[feedId]) aggregated[feedId] = [];
 
-      aggregated[tokenAddress].push({
+      aggregated[feedId].push({
         address,
         chainId,
-        id: createFeedId(address, chainId),
+        id: feedId,
         provider: entry.provider,
         symbol,
         tokenAddress,
