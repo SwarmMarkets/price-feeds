@@ -10,6 +10,10 @@ const CHAIN_IDS = {
   polygon: 137,
 };
 
+function createFeedId(address, chainId) {
+  return `${String(address).toLowerCase()}-${chainId}`;
+}
+
 const feedsDir = path.resolve(__dirname, '..');
 const outputPath = path.resolve(__dirname, '..', 'all-networks.json');
 
@@ -52,12 +56,14 @@ for (const file of files) {
     for (const entry of entries) {
       if (!entry || !entry.address || !entry.tokenAddress) continue;
 
+      const address = String(entry.address).toLowerCase();
       const tokenAddress = String(entry.tokenAddress).toLowerCase();
       if (!aggregated[tokenAddress]) aggregated[tokenAddress] = [];
 
       aggregated[tokenAddress].push({
-        address: String(entry.address).toLowerCase(),
+        address,
         chainId,
+        id: createFeedId(address, chainId),
         provider: entry.provider,
         symbol,
         tokenAddress,
