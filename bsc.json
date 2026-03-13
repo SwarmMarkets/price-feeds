@@ -1,0 +1,98 @@
+{
+  "0xdf052e139d9dbbcd6e816a9a69dd9a26306aae03": [
+    {
+      "address": "0xb7ed5be7977d61e83534230f3256c021e0fae0b6",
+      "provider": "Swarm",
+      "tokenAddress": "0xdf052e139d9dbbcd6e816a9a69dd9a26306aae03",
+      "symbol": "AAPL"
+    }
+  ],
+  "0x614f43402b5e5a59ce3dbd990bc9a868aa56e186": [
+    {
+      "address": "0x5117d46ddfb5ecb60345b25fb3376495e1f32f73",
+      "provider": "Swarm",
+      "tokenAddress": "0x614f43402b5e5a59ce3dbd990bc9a868aa56e186",
+      "symbol": "BLK"
+    }
+  ],
+  "0xaeae8fbe0df7edca81054d276f9ddaabad25a357": [
+    {
+      "address": "0x2d1ab79d059e21ae519d88f978caf39d74e31aeb",
+      "provider": "Swarm",
+      "tokenAddress": "0xaeae8fbe0df7edca81054d276f9ddaabad25a357",
+      "symbol": "COIN"
+    }
+  ],
+  "0xde28001d1d481af36dc00dbdf5a8486ea7f78a9c": [
+    {
+      "address": "0x73e71933282e66f1a783a08d5a505c201b72779d",
+      "provider": "Swarm",
+      "tokenAddress": "0xde28001d1d481af36dc00dbdf5a8486ea7f78a9c",
+      "symbol": "CPNG"
+    }
+  ],
+  "0xf096d8bec2f0df7a38876dc846e5f2860b2c83c6": [
+    {
+      "address": "0xa2df763f8fad611ae70c9055cc39fc415cecf6e7",
+      "provider": "Swarm",
+      "tokenAddress": "0xf096d8bec2f0df7a38876dc846e5f2860b2c83c6",
+      "symbol": "INTC"
+    }
+  ],
+  "0xcdbbe8766f1744554855e5b59968576e7e5787ed": [
+    {
+      "address": "0x5d209ce1fbabeaa8e6f9de4514a74ffb4b34560f",
+      "provider": "Swarm",
+      "tokenAddress": "0xcdbbe8766f1744554855e5b59968576e7e5787ed",
+      "symbol": "MSFT"
+    }
+  ],
+  "0x8bbd9b4fda067e49ee65ed8b647b655853309870": [
+    {
+      "address": "0xda7b6d452c1e38a6d5347adfe9198ca13fa90b5c",
+      "provider": "Swarm",
+      "tokenAddress": "0x8bbd9b4fda067e49ee65ed8b647b655853309870",
+      "symbol": "MSTR"
+    }
+  ],
+  "0xf0d4b9b3c0511e0df67db72e74c5701bdabf1514": [
+    {
+      "address": "0xea5c2cbb5cd57dac24e26180b19a929f3e9699b8",
+      "provider": "Swarm",
+      "tokenAddress": "0xf0d4b9b3c0511e0df67db72e74c5701bdabf1514",
+      "symbol": "NVDA"
+    }
+  ],
+  "0xf833e03f05b1229f0dab0f3f5c852e44d1849b32": [
+    {
+      "address": "0x8e813c79505a5f77ec935eb60701e4ebf20fd5e3",
+      "provider": "Swarm",
+      "tokenAddress": "0xf833e03f05b1229f0dab0f3f5c852e44d1849b32",
+      "symbol": "TBONDS01"
+    }
+  ],
+  "0x07eb9cd4a0d279fb0fd619ecaf07fdc25c282307": [
+    {
+      "address": "0x2afede5a790c1fc2e1b7d836e1902ca164b7e4dd",
+      "provider": "Swarm",
+      "tokenAddress": "0x07eb9cd4a0d279fb0fd619ecaf07fdc25c282307",
+      "symbol": "TBONDS13"
+    }
+  ],
+  "0xb2a712c24e03ece95cc7256b502530974386c7ed": [
+    {
+      "address": "0xeea2ae9c074e87596a85abe698b2afebc9b57893",
+      "provider": "Swarm",
+      "tokenAddress": "0xb2a712c24e03ece95cc7256b502530974386c7ed",
+      "symbol": "TSLA"
+    }
+  ],
+  "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": [
+    {
+      "address": "0x51597f405303c4377e36123cbc172b13269ea163",
+      "provider": "Swarm",
+      "tokenAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol": "USDC"
+    }
+  ]
+}
